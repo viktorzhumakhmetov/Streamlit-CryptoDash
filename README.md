@@ -1,4 +1,4 @@
-# Streamlit-CryptoDash
+# Streamlit App Interactive Crypto Dashboard
 
 Direct link to interactive dashboard: https://viktorzhumakhmetov-streamlit-cryptodash-app-lnvdi7.streamlit.app
 
